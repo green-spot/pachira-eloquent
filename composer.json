@@ -1,0 +1,21 @@
+{
+  "name": "green-spot/pachira-eloquent",
+  "description": "Eloquent for Pachira",
+  "keywords": [],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/green-spot/pachira-eloquent",
+  "authors": [
+    {
+      "name": "green spot",
+      "email": "in.green.spot@gmail.com"
+    }
+  ],
+  "require": {
+    "green-spot/pachira": "^0.1",
+    "illuminate/database": "*"
+  },
+  "autoload": {
+    "files": ["pachira-eloquent.php"]
+  }
+}
